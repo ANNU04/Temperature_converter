@@ -5,7 +5,9 @@
 }
 
 body {
-    background: linear-gradient(to bottom, black, grey);
+    background-image: url("temp.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
     color: white;
     font-size: 1rem;
     display: flex;
